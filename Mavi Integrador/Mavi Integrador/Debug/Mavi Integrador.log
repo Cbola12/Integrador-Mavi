@@ -1,0 +1,4 @@
+﻿  Juego.cpp
+C:\Users\Cristian\source\repos\Mavi Integrador\Mavi Integrador\Juego.cpp(71,65): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Cristian\source\repos\Mavi Integrador\Mavi Integrador\Juego.cpp(71,48): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Mavi Integrador.vcxproj -> C:\Users\Cristian\source\repos\Mavi Integrador\Debug\Mavi Integrador.exe
